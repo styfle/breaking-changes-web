@@ -10,4 +10,4 @@ Below is a list of those changes.
 * Adobe Flash (SWF) End of Life [wiki](https://en.wikipedia.org/wiki/Adobe_Flash#End_of_life)
 * Passive touch listeners by default [googleblog](https://developers.google.com/web/updates/2017/01/scrolling-intervention)
 * Forms with passwords marked `Not Secure` over HTTP [googleblog](https://security.googleblog.com/2016/09/moving-towards-more-secure-web.html)
-* `Array.prototype.flatten` breaks MooTools [bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1443630)
+* ~`Array.prototype.flatten` breaks MooTools [bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1443630)~~ renamed to `Array.prototype.flat`
