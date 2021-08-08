@@ -6,7 +6,7 @@ Over the years there have been necessary changes to the web platform that caused
 
 Below is a list of those changes.
 
-* SSL removed in favor of TLS [wiki](https://en.wikipedia.org/wiki/Transport_Layer_Security#SSL_1.0,_2.0_and_3.0)
+* SSL removed in favor of TLS [wiki](https://en.wikipedia.org/wiki/Transport_Layer_Security#SSL_1.0,_2.0,_and_3.0)
 * Adobe Flash (SWF) End of Life [wiki](https://en.wikipedia.org/wiki/Adobe_Flash#End_of_life)
 * `<applet>` and `<marquee>` and many other tags removed [html5](https://www.w3.org/TR/html5/obsolete.html)
 * `window.showModalDialog` removed [operablog](https://dev.opera.com/blog/showmodaldialog/)
