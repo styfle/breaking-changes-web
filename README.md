@@ -17,3 +17,4 @@ Below is a list of those changes.
 * HTML Imports (part of Web Components v0) deprecated [googleblog](https://developers.google.com/web/updates/2018/09/chrome-70-deps-rems) (October 2018)
 * Cookies changed from `SameSite=None` to `SameSite=Lax` by default [chromestatus](https://www.chromestatus.com/feature/5088147346030592) [tweet](https://twitter.com/simonw/status/1422366158171238400) (August 2020)
 * `alert()` and `confirm()` removed from cross-origin iframes [chromestatus](https://www.chromestatus.com/feature/5148698084376576) [tweet](https://twitter.com/chriscoyier/status/1420027533005836298) (July 2021)
+* Removing HTTP/2 Server Push from Chrome [chromeblog](https://developer.chrome.com/blog/removing-push/) (August 2022)
