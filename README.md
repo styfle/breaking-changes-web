@@ -15,6 +15,7 @@ Below is a list of those changes.
 * ~~`Array.prototype.flatten` breaks MooTools [bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1443630)~~ [renamed](https://developers.google.com/web/updates/2018/03/smooshgate) to `Array.prototype.flat` (May 2018)
 * Full page layout is no longer synchronous [googleblog](https://developers.google.com/web/updates/2018/07/site-isolation#full-page_layout_is_no_longer_synchronous) (May 2018)
 * HTML Imports (part of Web Components v0) deprecated [googleblog](https://developers.google.com/web/updates/2018/09/chrome-70-deps-rems) (October 2018)
+* WebSQL is removed [developer.apple.com](https://developer.apple.com/documentation/safari-release-notes/safari-13-release-notes) (September 2019)
 * Cookies changed from `SameSite=None` to `SameSite=Lax` by default [chromestatus](https://www.chromestatus.com/feature/5088147346030592) [tweet](https://twitter.com/simonw/status/1422366158171238400) (August 2020)
 * `alert()` and `confirm()` removed from cross-origin iframes [chromestatus](https://www.chromestatus.com/feature/5148698084376576) [tweet](https://twitter.com/chriscoyier/status/1420027533005836298) (July 2021)
 * Removing HTTP/2 Server Push from Chrome [chromeblog](https://developer.chrome.com/blog/removing-push/) (August 2022)
